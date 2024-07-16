@@ -1,0 +1,31 @@
+--- !ruby/object:Game
+word_array:
+- c
+- o
+- "n"
+- "n"
+- e
+- c
+- t
+- i
+- o
+- "n"
+- s
+total_guesses: 6
+current_guess: 3
+guessed_word_array:
+- _
+- _
+- _
+- _
+- _
+- _
+- _
+- _
+- _
+- _
+- _
+incorrect_guesses:
+- j
+- b
+- r
